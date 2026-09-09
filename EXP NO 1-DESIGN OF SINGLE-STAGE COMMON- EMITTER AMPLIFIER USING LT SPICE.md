@@ -13,8 +13,17 @@
 
 ## circuit diagram
 
+
+
+
+
 ## graph
 
+
+
+
 ## calculation
+
+
 
 ## result
